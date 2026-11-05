@@ -1,12 +1,5 @@
 # 🚢 Titanic Exploratory Data Analysis (EDA)
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Ribhu131/Titanic-Exploratory-Data-Analysis/main/assets/titanic-banner.png"
-    alt="Titanic Exploratory Data Analysis Banner"
-    width="100%"
-  />
-</p>
 
 <p align="center">
   Exploring passenger demographics, survival patterns, and insights from the Titanic dataset using Python.
